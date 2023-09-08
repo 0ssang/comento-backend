@@ -31,12 +31,11 @@
    
   
 2. VO 작성
-    ![](/Users/joyoungsang/Desktop/스크린샷 2023-09-08 오후 5.32.09.png)
+    ![ss1.png](img%2Fss1.png)
      + getter, setter method 작성
 
 
 3. 실행 결과
-   ![](/Users/joyoungsang/Desktop/스크린샷 2023-09-08 오후 5.32.50.png)
-
+    ![ss2.png](img%2Fss2.png)
 
 ***
