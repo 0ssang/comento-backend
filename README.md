@@ -39,3 +39,9 @@
     ![ss2.png](img%2Fss2.png)
 
 ***
+
+##  ✏️2주차 진행 내용
+1. API 가이드 문서 작성
+   * [api_guide.docx](api_guide.docx)
+2. REST API 개념 학습
+
