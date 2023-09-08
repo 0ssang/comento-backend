@@ -16,5 +16,27 @@
      + IntelliJ
    * DB
      + mysql, mysql workbench 8.0.34
+   * Maven dependancy
+     + org.springframework:spring-web5.3.20
+     + org.mybatis:mybatis:3.5.6
+     + org.mybatis:mybatis-spring:1.3.2
+     + org.slf4j:slf4j-api:1.7.25
+     + org.apache.tomcat:tomcat-juli:10.1.7
+     + org.apache.tomcat:tomcat-dbcp:10.1.7
+     + mysql:mysql-connector-java:8.0.28
+     + javax.inject:javax.inject:1
+     + commons-fileupload:commons-fileupload:1.3.1
+     + javax.servlet.jsp:jsp-api:2.1
+     + javax.servlet:javax.servlet-api:3.1.0
+   
+  
+2. VO 작성
+    ![](/Users/joyoungsang/Desktop/스크린샷 2023-09-08 오후 5.32.09.png)
+     + getter, setter method 작성
+
+
+3. 실행 결과
+   ![](/Users/joyoungsang/Desktop/스크린샷 2023-09-08 오후 5.32.50.png)
+
 
 ***
